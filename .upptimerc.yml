@@ -3,23 +3,18 @@ owner: MitsMediaClub # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: GRID
     url: https://grid.mitsmediaclub.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.mitsmediaclub.com
+  #baseUrl: /status
+  logoUrl: https://avatars.githubusercontent.com/u/105416301?s=280&v=4
   name: MITS Media Club Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
