@@ -6,8 +6,7 @@ sites:
     url: https://grid.mitsmediaclub.com
 
 status-page:
-  cname: status.mitsmediaclub.com
-  baseUrl: /
+  baseUrl: /status
   title: MITS Media Club Status
   theme: dark 
   logoUrl: https://avatars.githubusercontent.com/u/105416301?s=280&v=4
