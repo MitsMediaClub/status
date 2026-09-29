@@ -24,22 +24,23 @@
     "url": "https://db.mitsmediaclub.com",
     "icon": "https://icons.duckduckgo.com/ip3/db.mitsmediaclub.com.ico",
     "slug": "grid-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 985,
-    "timeDay": 895,
-    "timeWeek": 914,
-    "timeMonth": 920,
-    "timeYear": 985,
+    "time": 981,
+    "timeDay": 500,
+    "timeWeek": 813,
+    "timeMonth": 895,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2026-02-04": 53,
       "2026-02-14": 48,
       "2026-02-17": 60,
-      "2026-02-19": 60
+      "2026-02-19": 60,
+      "2026-09-29": 0
     }
   }
 ]
