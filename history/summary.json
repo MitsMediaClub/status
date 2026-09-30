@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1168,
-    "timeDay": 1891,
-    "timeWeek": 1466,
-    "timeMonth": 1307,
-    "timeYear": 1168,
+    "time": 1169,
+    "timeDay": 1461,
+    "timeWeek": 1441,
+    "timeMonth": 1310,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2026-03-01": 24
     }
@@ -25,22 +25,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.mitsmediaclub.com.ico",
     "slug": "grid-db",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 981,
-    "timeDay": 500,
-    "timeWeek": 813,
-    "timeMonth": 895,
-    "timeYear": 981,
+    "uptime": "99.68%",
+    "uptimeDay": "39.72%",
+    "uptimeWeek": "91.39%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.68%",
+    "time": 977,
+    "timeDay": 69,
+    "timeWeek": 688,
+    "timeMonth": 866,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2026-02-04": 53,
       "2026-02-14": 48,
       "2026-02-17": 60,
       "2026-02-19": 60,
-      "2026-09-29": 0
+      "2026-09-30": 286,
+      "2026-09-29": 582
     }
   }
 ]
